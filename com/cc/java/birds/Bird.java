@@ -3,7 +3,7 @@ package com.cc.java.birds;
 import com.cc.java.interfaces.IFlyable;
 import com.cc.java.interfaces.IFeathers;
 
-public class Bird implements Flyable, IFeathers{
+public class Bird implements IFlyable, IFeathers{
 
     @Override
     public String fly() {
