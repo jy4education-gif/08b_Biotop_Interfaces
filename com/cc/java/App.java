@@ -1,5 +1,4 @@
 package com.cc.java;
-
 import com.cc.java.bees.*;
 import com.cc.java.birds.*;
 import com.cc.java.interfaces.*;
@@ -20,7 +19,6 @@ public class App {
      
     }
 
-
     private static void pollObj(IFlyable obj) {
     output(obj.fly());
 
@@ -39,12 +37,9 @@ public class App {
     output("-------------------");
     }
 
-
     private static void output(String outputStr) {
         System.out.println(outputStr);
     }
-
-
 
 }
 

@@ -1,5 +1,4 @@
 package com.cc.java.birds;
-
 import com.cc.java.interfaces.IFlyable;
 import com.cc.java.interfaces.IFeathers;
 

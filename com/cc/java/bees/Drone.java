@@ -11,6 +11,5 @@ public class Drone extends HoneyBee{
     public String fly() {
         return "I can fly at 10mph!";
     }
-
-    
+        
 }
