@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="S2CIPdIG4Lf3GdL8Yfw6" name="HoneyBee_1">
-        <mxGraphModel dx="469" dy="173" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="937" dy="472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -35,7 +35,7 @@
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="Uljiqxz3gMnohdjpOFmN-8" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;Bird&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ doYourJob(): String&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ fly(): String&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="640" y="160" width="160" height="80" as="geometry"/>
+                    <mxGeometry x="640" y="140" width="160" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="Uljiqxz3gMnohdjpOFmN-9" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="Uljiqxz3gMnohdjpOFmN-8" target="2" edge="1">
                     <mxGeometry width="160" relative="1" as="geometry">
@@ -47,7 +47,7 @@
         </mxGraphModel>
     </diagram>
     <diagram name="HoneyBee_2" id="VCF8wP9gU9lYebCZEoAH">
-        <mxGraphModel dx="766" dy="472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="937" dy="472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="sD4UC5cu11MfYd06tIE0-0"/>
                 <mxCell id="sD4UC5cu11MfYd06tIE0-1" parent="sD4UC5cu11MfYd06tIE0-0"/>
