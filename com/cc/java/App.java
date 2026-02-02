@@ -1,5 +1,11 @@
 package com.cc.java;
 
+import com.cc.java.bees.Drone;
+import com.cc.java.bees.HoneyBee;
+import com.cc.java.bees.Queen;
+import com.cc.java.bees.Worker;
+import com.cc.java.birds.Bird;
+
 public class App {
     
     public static void main(String[] args) {
