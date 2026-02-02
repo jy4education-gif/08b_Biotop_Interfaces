@@ -1,4 +1,5 @@
 package com.cc.java.bees;
+import com.cc.java.interfaces.IFlyable;
 
 public class Drone extends HoneyBee{
 
