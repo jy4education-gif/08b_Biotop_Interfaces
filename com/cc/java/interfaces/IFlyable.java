@@ -1,6 +1,6 @@
 package com.cc.java.interfaces;
 
-public interface Flyable {
+public interface IFlyable {
 
     public abstract String fly();
 
